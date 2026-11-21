@@ -1,3 +1,9 @@
+## [Unreleased]
+
+### Added
+
+- docs：新增提案《先预演后渲染：本地低保真生成与云端高保真重绘的两段式视频工作流提案》（docs/essay/local-preview-cloud-redraw.md）——本地 VACE 480P 预演、云端可灵/Vidu/即梦重绘的两段式链路，含分工、四步操作、甜区雷区与验证计划
+
 # CHANGELOG
 
 所有显著变更都将记录在此文件中。
