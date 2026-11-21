@@ -2,7 +2,7 @@
 
 ## 概述
 
-创意工作——用 AI 做内容的作坊：方法（`docs/` 教程与手册）、半成品（`data/profile/` 生成素材）、未成形的项目（`examples/`）。东西一旦立项成剧、奔着成片去，整套迁 drama；成片与上架归 drama，发布运营归 qtcloud-media，文件存储归 qtstore。
+创意工作——用 AI 做内容的作坊：方法（`docs/` 教程与手册）、半成品（`data/profile/` 生成素材）、未成形的项目（`examples/`）。单独拿出来是因为这里需要**高频迭代、记录中间过程**——内容反复改、每步中间态留痕；小说原文在 fiction（写作地，人维护，不动），立项后的成片生产在 drama。东西一旦立项成剧、奔着成片去，整套迁 drama；成片与上架归 drama，发布运营归 qtcloud-media，文件存储归 qtstore。
 
 ## 目录
 
