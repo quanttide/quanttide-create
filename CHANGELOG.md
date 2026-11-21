@@ -22,6 +22,8 @@
 
 - 挂载 `apps/qtcloud-create` → qtcloud-create（工作台）、`apps/qtcloud-studio` → qtcloud-studio（生成工作室）
 
+- 更正：studio 为 qtcloud-create 仓内 `src/studio`（对齐 qtcloud-media 惯例），撤销独立仓 qtcloud-studio 注册
+
 ## [Unreleased]
 
 - 更新 `examples/quanttide-create-lab`：新增 `src/cli`（run-shot，Rust）——跑一镜视频生成实验，产物与 run.md 自动落档 experiments/
