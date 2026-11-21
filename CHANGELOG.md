@@ -10,6 +10,8 @@
 
 - 自 quanttide-founder context 迁入创作草稿：`data/journal/2026-11-17.md`
 
+- 撤回：`data/journal/2026-11-17.md` 归位错误，移回 quanttide-founder `data/journal/fiction/`
+
 ## [Unreleased]
 
 - 注册子模块：`examples/quanttide-create-lab`（quanttide-create-lab，创意工作实验室），仓库初始化为骨架，实验室元仓双登记

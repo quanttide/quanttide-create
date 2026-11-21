@@ -6,7 +6,6 @@
 
 ## 目录
 
-- `data/journal/` — 创作草稿（按日期）
 - `docs/handbook/` — 手册：素材获取与内容制作
 - `docs/essay/` — 随笔：AI 生图逼近脑中那一帧
 - `docs/tutorial/` — 教程：创意工作入门、AI 原生创意工作
