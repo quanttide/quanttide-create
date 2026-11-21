@@ -14,8 +14,8 @@
 - `apps/` — 应用：qtcloud-create（工作台，含 src/studio 界面）
 - `docs/gallery/` — 案例集：工具与创意配合的判例（元方法）
 - `docs/handbook/` — 手册：素材获取与内容制作
-- `docs/essay/` — 随笔：AI 生图逼近脑中那一帧
-- `docs/tutorial/` — 教程：创意工作入门、AI 原生创意工作
+- `docs/essay/` — 随笔：先预演后渲染的两段式视频工作流提案
+- `docs/tutorial/` — 教程：创意工作入门、AI 原生创意工作、AI 生图逼近脑中那一帧
 
 ## 子模块
 
