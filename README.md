@@ -6,6 +6,7 @@
 
 ## 目录
 
+- `data/context/` — 待归位记忆（quanttide-context-of-creative-work）
 - `data/journal/` — 日志（quanttide-journal-of-creative-work）
 - `data/profile/` — 档案，按租户分目录（quanttide-profile-of-creative-work）
 - `docs/handbook/` — 手册：素材获取与内容制作
@@ -17,6 +18,7 @@
 
 | 路径 | 说明 |
 |------|------|
+| `data/context` | 待归位记忆 (git submodule → quanttide-context-of-creative-work) |
 | `data/journal` | 日志 (git submodule → quanttide-journal-of-creative-work) |
 | `data/profile` | 档案 (git submodule → quanttide-profile-of-creative-work) |
 | `examples/quanttide-create-lab` | 创意工作实验室 (git submodule → quanttide-create-lab) |
