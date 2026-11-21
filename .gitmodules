@@ -1,3 +1,9 @@
 [submodule "examples/quanttide-create-lab"]
 	path = examples/quanttide-create-lab
 	url = https://github.com/quanttide/quanttide-create-lab.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-creative-work.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-creative-work.git
