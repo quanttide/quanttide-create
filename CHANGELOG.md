@@ -28,6 +28,7 @@
 
 ## [Unreleased]
 
+- 更新 `examples/quanttide-create-lab`：新增 `docs/wan21-13b-community.md`——Wan2.1-T2V-1.3B 官方规格与社区成功用法查证（带出处）
 - 更新 `examples/quanttide-create-lab`：新增 `src/cli`（run-shot，Rust）——跑一镜视频生成实验，产物与 run.md 自动落档 experiments/
 - 注册子模块：`examples/quanttide-create-lab`（quanttide-create-lab，创意工作实验室），仓库初始化为骨架，实验室元仓双登记
 - 初始化：量潮创意工作 领域第二大脑骨架（README、AGENTS、CHANGELOG、LICENSE）
