@@ -20,6 +20,8 @@
 
 - 补定位理由：高频迭代与中间过程记录；与 fiction（原文，人维护）、drama（立项后成片）的分工
 
+- 挂载 `apps/qtcloud-create` → qtcloud-create（工作台）、`apps/qtcloud-studio` → qtcloud-studio（生成工作室）
+
 ## [Unreleased]
 
 - 更新 `examples/quanttide-create-lab`：新增 `src/cli`（run-shot，Rust）——跑一镜视频生成实验，产物与 run.md 自动落档 experiments/

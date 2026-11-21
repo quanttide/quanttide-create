@@ -10,3 +10,9 @@
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-creative-work.git
+[submodule "apps/qtcloud-create"]
+	path = apps/qtcloud-create
+	url = https://github.com/quanttide/qtcloud-create.git
+[submodule "apps/qtcloud-studio"]
+	path = apps/qtcloud-studio
+	url = https://github.com/quanttide/qtcloud-studio.git
