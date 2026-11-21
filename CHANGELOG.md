@@ -24,6 +24,8 @@
 
 - 更正：studio 为 qtcloud-create 仓内 `src/studio`（对齐 qtcloud-media 惯例），撤销独立仓 qtcloud-studio 注册
 
+- 挂载 `docs/gallery` → quanttide-gallery-of-creative-work（案例集：工具与创意配合的元方法探究）
+
 ## [Unreleased]
 
 - 更新 `examples/quanttide-create-lab`：新增 `src/cli`（run-shot，Rust）——跑一镜视频生成实验，产物与 run.md 自动落档 experiments/

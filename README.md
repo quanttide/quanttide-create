@@ -10,6 +10,7 @@
 - `data/journal/` — 日志（quanttide-journal-of-creative-work）
 - `data/profile/` — 档案，按租户分目录（quanttide-profile-of-creative-work）
 - `apps/` — 应用：qtcloud-create（工作台，含 src/studio 界面）
+- `docs/gallery/` — 案例集：工具与创意配合的判例（元方法）
 - `docs/handbook/` — 手册：素材获取与内容制作
 - `docs/essay/` — 随笔：AI 生图逼近脑中那一帧
 - `docs/tutorial/` — 教程：创意工作入门、AI 原生创意工作
@@ -19,6 +20,7 @@
 
 | 路径 | 说明 |
 |------|------|
+| `docs/gallery` | 案例集 (git submodule → quanttide-gallery-of-creative-work) |
 | `apps/qtcloud-create` | 工作台 (git submodule → qtcloud-create) |
 | `data/context` | 待归位记忆 (git submodule → quanttide-context-of-creative-work) |
 | `data/journal` | 日志 (git submodule → quanttide-journal-of-creative-work) |

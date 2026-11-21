@@ -13,3 +13,6 @@
 [submodule "apps/qtcloud-create"]
 	path = apps/qtcloud-create
 	url = https://github.com/quanttide/qtcloud-create.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-creative-work.git
