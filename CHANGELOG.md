@@ -28,6 +28,7 @@
 
 ## [Unreleased]
 
+- 注册子模块：`data/library`（quanttide-library-of-creative-work，创意工作图书馆）：工具介绍四篇（EchoShot、Phantom、VACE、FlowEdit/FlowAlign），Wan2.1-1.3B 生态查证带出处
 - 更新 `examples/quanttide-create-lab`：1.3B 查证补「对到 profile 素材」逐条对照（同人三镜、9:16 画幅、VACE 参考图路线）；新增 `docs/wan21-13b-community.md`
 - 更新 `examples/quanttide-create-lab`：新增 `src/cli`（run-shot，Rust）——跑一镜视频生成实验，产物与 run.md 自动落档 experiments/
 - 注册子模块：`examples/quanttide-create-lab`（quanttide-create-lab，创意工作实验室），仓库初始化为骨架，实验室元仓双登记
