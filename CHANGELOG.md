@@ -16,6 +16,8 @@
 
 - 挂载 `data/context` → quanttide-context-of-creative-work（待归位记忆仓骨架）
 
+- 修订定位：用 AI 做内容的作坊（方法、半成品、未成形的项目）；立项成剧的整套迁 drama
+
 ## [Unreleased]
 
 - 注册子模块：`examples/quanttide-create-lab`（quanttide-create-lab，创意工作实验室），仓库初始化为骨架，实验室元仓双登记
