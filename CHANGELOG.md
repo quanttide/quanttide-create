@@ -34,6 +34,8 @@
 
 ## [Unreleased]
 
+- 更新 `data/library`：`tools/vace.md` 现状改「已跑通首条」，记风格漂移与负词教训
+- 更新 `examples/quanttide-create-lab`：VACE 首实验落档 `experiments/vace-first`（参考图生视频，288x512/17 帧，540s）
 - 注册子模块：`data/library`（quanttide-library-of-creative-work，创意工作图书馆）：工具介绍四篇（EchoShot、Phantom、VACE、FlowEdit/FlowAlign），Wan2.1-1.3B 生态查证带出处
 - 更新 `examples/quanttide-create-lab`：1.3B 查证补「对到 profile 素材」逐条对照（同人三镜、9:16 画幅、VACE 参考图路线）；新增 `docs/wan21-13b-community.md`
 - 更新 `examples/quanttide-create-lab`：新增 `src/cli`（run-shot，Rust）——跑一镜视频生成实验，产物与 run.md 自动落档 experiments/
