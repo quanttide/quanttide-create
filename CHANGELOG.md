@@ -34,6 +34,7 @@
 
 ## [Unreleased]
 
+- 更新 `data/profile`：新增第一章剧本 `urban-romance/scripts/1_咖啡厅重逢.md`（影视行业编号：场号连续、场次头、角色名对白），拍卡镜号改「场-镜」互链，租户约定补 `scripts/`
 - 注册子模块：`assets/fictions/founder`（quanttide-fiction-of-founder，量潮创始人网络文学）：小说原文（校园言情、职场言情、重生言情），供剧本改写
 - 更新 `data/profile`：`videos/1_毛巾.md` 改名 `1_2_越界的毛巾.md`（与 images 对齐），按拍卡重写（四拍，各带时长帧数、在场清单、验收句）
 - 更新 `data/library`：`tools/vace.md` 现状改「已跑通首条」，记风格漂移与负词教训
