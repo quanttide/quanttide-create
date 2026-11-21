@@ -10,6 +10,7 @@
 - `data/journal/` — 日志（quanttide-journal-of-creative-work）
 - `data/library/` — 参考（quanttide-library-of-creative-work）
 - `data/profile/` — 档案，按租户分目录（quanttide-profile-of-creative-work）
+- `assets/fictions/founder/` — 小说原文（quanttide-fiction-of-founder），剧本改写的原始素材
 - `apps/` — 应用：qtcloud-create（工作台，含 src/studio 界面）
 - `docs/gallery/` — 案例集：工具与创意配合的判例（元方法）
 - `docs/handbook/` — 手册：素材获取与内容制作
@@ -28,6 +29,7 @@
 | `data/library` | 参考 (git submodule → quanttide-library-of-creative-work) |
 | `data/profile` | 档案 (git submodule → quanttide-profile-of-creative-work) |
 | `examples/quanttide-create-lab` | 创意工作实验室 (git submodule → quanttide-create-lab) |
+| `assets/fictions/founder` | 小说原文 (git submodule → quanttide-fiction-of-founder) |
 
 ## 许可
 

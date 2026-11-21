@@ -19,3 +19,6 @@
 [submodule "data/library"]
 	path = data/library
 	url = https://github.com/quanttide/quanttide-library-of-creative-work.git
+[submodule "assets/fictions/founder"]
+	path = assets/fictions/founder
+	url = https://github.com/quanttide/quanttide-fiction-of-founder.git
